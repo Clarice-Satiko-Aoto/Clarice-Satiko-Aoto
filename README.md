@@ -9,13 +9,13 @@ If you could help me on Machine Learning, I will love you for eternity! 😍
 
 #### Connect with me
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/claricesatikoaoto-bi-python-ux/)
-[<img align="left" alt="Clarice Aoto | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@cabreirajm)
-[<img align="left" alt="clarice.aoto | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/jhon_cabreira/)
+[<img align="left" alt="Clarice Aoto | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@clarice.aoto)
+[<img align="left" alt="clarice.aoto | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/clarice.aoto/)
 <br/>
 <br />
 #### My projetcts
 
-[Análise de Sentimentos - Olist](https://github.com/Clarice-Satiko-Aoto/Stack-Lab) 
+[Análise de Sentimentos - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
 
 [KNN](https://github.com/Clarice-Satiko-Aoto/KNN)
 
