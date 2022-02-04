@@ -1,18 +1,6 @@
 ### Hi there 👋
 
-I'm Clarice and I'm currently learning UX design and Data Science. 
 
-If you could help me on Machine Learning, I will love you for eternity! 😍
-
-
-<br />
-
-#### Connect with me
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/claricesatikoaoto-bi-python-ux/)
-[<img align="left" alt="Clarice Aoto | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@clarice.aoto)
-[<img align="left" alt="clarice.aoto | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/clarice.aoto/)
-<br/>
-<br />
 #### My projetcts
 
 [Análise de Sentimentos - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
@@ -24,11 +12,6 @@ If you could help me on Machine Learning, I will love you for eternity! 😍
 
 
 <br />
-
-#### Languages
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />, <img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />, <img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg"/>
-
 
 
 
