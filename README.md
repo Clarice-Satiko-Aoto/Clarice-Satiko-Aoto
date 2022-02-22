@@ -12,7 +12,7 @@
 
 [Regressão Logística](https://github.com/Clarice-Satiko-Aoto/Logistic-Regression)
 
-
+[Utilidades](https://github.com/Clarice-Satiko-Aoto/utilidades)
 
 <!--
 **Clarice-Satiko-Aoto/Clarice-Satiko-Aoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
