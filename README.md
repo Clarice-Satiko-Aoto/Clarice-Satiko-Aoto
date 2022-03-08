@@ -1,9 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 <br/>
 <b />
 My projects
-
-
 [Análise de Sentimentos - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
 
 [KNN](https://github.com/Clarice-Satiko-Aoto/KNN)
@@ -13,7 +11,9 @@ My projects
 [Utilidades](https://github.com/Clarice-Satiko-Aoto/utilidades)
 
 [EDA](https://github.com/Clarice-Satiko-Aoto/EDA)
+
 <br/>
+
 <br/>
 I'm studying
 <br/>
