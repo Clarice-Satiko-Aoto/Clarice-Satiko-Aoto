@@ -16,7 +16,7 @@ Data Science
 
 [Logistic Regression](https://github.com/Clarice-Satiko-Aoto/Logistic-Regression)
 
-[Mobile app realize](https://sites.google.com/view/clarice-satiko-aoto/bi/lan%C3%A7amento-de-aplicativo)
+[Mobile app release](https://sites.google.com/view/clarice-satiko-aoto/bi/lan%C3%A7amento-de-aplicativo)
 
 [Utilities](https://github.com/Clarice-Satiko-Aoto/utilidades)
 
@@ -26,12 +26,14 @@ Data Science
 <br>
 <br/>
 UX/UI Design
+
 [Stock app](https://www.figma.com/proto/ucrCVpCvZHytZtRztoRSIW/stock-investment-app?page-id=1%3A251&node-id=4%3A355&viewport=241%2C48%2C0.6&scaling=scale-down&starting-point-node-id=4%3A355)
 
 [Domestic Violence](https://aoto-clarice.medium.com/mulheres-em-movimento-estudo-de-caso-de-ux-bf2d70caab57)
 
-
 [Free hand-on](https://sites.google.com/view/clarice-satiko-aoto/ux/avulsos)
+
+
 
 
 I'm studying
@@ -41,6 +43,7 @@ I'm studying
 
 
 <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 
 
 [More about me](https://sites.google.com/view/clarice-satiko-aoto/sobre)
