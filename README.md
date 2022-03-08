@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+
 
 <b />
 
@@ -19,7 +19,11 @@
 <b /><b /><b />
 
 I'm studying
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+[!]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+
+Contact me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <!--
 **Clarice-Satiko-Aoto/Clarice-Satiko-Aoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
