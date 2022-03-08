@@ -1,9 +1,6 @@
 ### Hi there 👋
 <br/>
 <b />
-<br/>
-<b />
-
 #### My projetcts
 <br/>
 <br/>
@@ -16,18 +13,14 @@
 [Utilidades](https://github.com/Clarice-Satiko-Aoto/utilidades)
 
 [EDA](https://github.com/Clarice-Satiko-Aoto/EDA)
-
 <br/>
 <br/>
-<br/>
-<br/>
-#### I'm studying
+I'm studying
 <br/>
 <br/>
 <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<br/>
 <br/>
 <br/>
 <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
@@ -38,9 +31,7 @@
 <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br/>
 <br/>
-<br/>
-<br/>
-#### Contact me
+Contact me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)])
 
