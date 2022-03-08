@@ -37,7 +37,7 @@
 #### Contact me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(61)999761885)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+
 <!--
 **Clarice-Satiko-Aoto/Clarice-Satiko-Aoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
