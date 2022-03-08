@@ -2,7 +2,7 @@
 
 
 My projects
-
+<br/><br/>
 
 Data Science
 
@@ -26,7 +26,8 @@ Data Science
 <br>
 <br/>
 UX/UI Design
-
+<br/>
+<br/>
 [Stock app](https://www.figma.com/proto/ucrCVpCvZHytZtRztoRSIW/stock-investment-app?page-id=1%3A251&node-id=4%3A355&viewport=241%2C48%2C0.6&scaling=scale-down&starting-point-node-id=4%3A355)
 
 [Domestic Violence](https://aoto-clarice.medium.com/mulheres-em-movimento-estudo-de-caso-de-ux-bf2d70caab57)
@@ -46,7 +47,11 @@ I'm studying
 
 
 
-[More about me](https://sites.google.com/view/clarice-satiko-aoto/sobre)
+
+
+More about me
+[Google Site](https://sites.google.com/view/clarice-satiko-aoto/sobre)
+[Linkedin](https://www.linkedin.com/in/claricesatikoaoto-bi-python-ux/)
 
 
 
