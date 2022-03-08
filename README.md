@@ -21,10 +21,12 @@
 #### I'm studying
 
 
-[Bootstrap](<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>, width=100, height=100)  
+[Bootstrap](<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg", width="100", height="100">)  
 
 
 Contact me
+<br/>
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <!--
