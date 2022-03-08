@@ -10,7 +10,7 @@ Data Science
 
 [EDA](https://github.com/Clarice-Satiko-Aoto/EDA)
 
-[EDA0](https://aoto-clarice.medium.com/an%C3%A1lise-de-dados-39ff2221c783)
+[EDA 0](https://aoto-clarice.medium.com/an%C3%A1lise-de-dados-39ff2221c783)
 
 [KNN](https://github.com/Clarice-Satiko-Aoto/KNN)
 
