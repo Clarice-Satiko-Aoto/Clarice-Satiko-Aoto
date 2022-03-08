@@ -1,6 +1,6 @@
 ## Hi there 👋
-<br/>
-<b />
+
+
 My projects
 [Análise de Sentimentos - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
 
