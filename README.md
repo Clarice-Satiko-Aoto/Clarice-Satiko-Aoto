@@ -5,7 +5,6 @@ My projects
 <br/><br/>
 
 Data Science
-
 [NLP - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
 
 [EDA](https://github.com/Clarice-Satiko-Aoto/EDA)
