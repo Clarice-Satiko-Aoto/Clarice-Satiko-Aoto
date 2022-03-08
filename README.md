@@ -5,6 +5,7 @@ My projects
 <br/><br/>
 
 Data Science
+
 [NLP - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
 
 [EDA](https://github.com/Clarice-Satiko-Aoto/EDA)
@@ -25,8 +26,6 @@ Data Science
 <br>
 <br/>
 UX/UI Design
-<br/>
-
 
 [Stock app](https://www.figma.com/proto/ucrCVpCvZHytZtRztoRSIW/stock-investment-app?page-id=1%3A251&node-id=4%3A355&viewport=241%2C48%2C0.6&scaling=scale-down&starting-point-node-id=4%3A355)
 
