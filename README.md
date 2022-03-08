@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br/>
 <b />
-#### My projetcts
+My projects
 <br/>
 <br/>
 [Análise de Sentimentos - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
@@ -31,9 +31,7 @@ I'm studying
 <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br/>
 <br/>
-Contact me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)])
 
 <!--
 **Clarice-Satiko-Aoto/Clarice-Satiko-Aoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
