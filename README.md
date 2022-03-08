@@ -21,7 +21,7 @@
 #### I'm studying
 
 
-[Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg, weigth=100, height=100)
+[Bootstrap](<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg", width=100, height=100)  
 
 
 Contact me
