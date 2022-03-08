@@ -14,6 +14,13 @@
 
 [Utilidades](https://github.com/Clarice-Satiko-Aoto/utilidades)
 
+[EDA](https://github.com/Clarice-Satiko-Aoto/EDA)
+
+<b /><b /><b />
+
+I'm studying
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
 <!--
 **Clarice-Satiko-Aoto/Clarice-Satiko-Aoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
