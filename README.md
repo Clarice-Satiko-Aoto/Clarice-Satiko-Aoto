@@ -31,7 +31,7 @@ UX/UI Design
 
 [Domestic Violence](https://aoto-clarice.medium.com/mulheres-em-movimento-estudo-de-caso-de-ux-bf2d70caab57)
 
-[Free hand-on](https://sites.google.com/view/clarice-satiko-aoto/ux/avulsos)
+[Free hands-on](https://sites.google.com/view/clarice-satiko-aoto/ux/avulsos)
 
 <br>
 <br>
