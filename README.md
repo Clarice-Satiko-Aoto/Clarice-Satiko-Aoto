@@ -6,6 +6,8 @@ My projects
 
 Data Science
 
+[Insurance Prediction](https://share.streamlit.io/clarice-satiko-aoto/insurance-stacklabs2/main/vai_dar_bom.py) ([Repositório](https://github.com/Clarice-Satiko-Aoto/insurance-StackLabs2))
+
 [NLP - Olist](https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py), ([repositorio1](https://github.com/Clarice-Satiko-Aoto/Stack-Lab)) ([repositório2](https://github.com/petersonrs/projetostack)) 
 
 [EDA](https://github.com/Clarice-Satiko-Aoto/EDA)
