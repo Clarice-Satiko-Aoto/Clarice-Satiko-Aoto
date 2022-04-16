@@ -24,6 +24,8 @@ Data Science
 
 [WhatsApp message](https://sites.google.com/view/clarice-satiko-aoto/bi/fluxo-de-mensagem-whatsapp)
 
+[Studying](https://github.com/Clarice-Satiko-Aoto/Studying)
+
 <br>
 <br>
 <br/>
