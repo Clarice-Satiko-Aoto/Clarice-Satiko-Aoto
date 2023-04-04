@@ -49,7 +49,7 @@ I'm studying
 
 
 
-<img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img align="center" alt="Clarice-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
 <br>
@@ -58,7 +58,7 @@ More about me
 
 [Google Site](https://sites.google.com/view/clarice-satiko-aoto/sobre)
 
-[Linkedin](https://www.linkedin.com/in/claricesatikoaoto-bi-python-ux/)
+[Linkedin](https://www.linkedin.com/in/claricesatikoaoto/)
 
 
 
