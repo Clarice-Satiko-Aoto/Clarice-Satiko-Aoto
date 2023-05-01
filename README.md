@@ -6,7 +6,7 @@ My projects
 
 Data Science
 
-[Salary prediction](https://share.streamlit.io/clarice-satiko-aoto/annual_income/main/salary_predictor.py)([Repositório](https://github.com/Clarice-Satiko-Aoto/Annual_income))
+[Salary prediction](https://share.streamlit.io/clarice-satiko-aoto/annual_income/main/salary_predictor.py) ([Repositório](https://github.com/Clarice-Satiko-Aoto/Annual_income))
 
 
 [Insurance Prediction](https://share.streamlit.io/clarice-satiko-aoto/insurance-stacklabs2/main/vai_dar_bom.py) ([Repositório](https://github.com/Clarice-Satiko-Aoto/insurance-StackLabs2))
